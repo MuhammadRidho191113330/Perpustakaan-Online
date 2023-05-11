@@ -19,3 +19,4 @@ Program prototype Aplikasi menggunakan bahasa <b>Flutter/Dart</b> berbasis mobil
 ## Anggota Kelompok :
 - Anggota 1 : 191113330 / Muhammad Ridho
 - Anggota 2 : 191112717 / Yonita Sianturi
+- Anggota 3 : 211111512 / Raul Alexander Stankovic
